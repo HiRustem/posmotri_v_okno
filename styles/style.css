@@ -295,7 +295,6 @@ ol {
   line-height: 100%;
   text-transform: uppercase;
 
-
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
@@ -305,8 +304,6 @@ ol {
   font-size: 18px;
   font-weight: 400;
   line-height: 90%;
-
-
 }
 
 .content__video-card-thumbnail {

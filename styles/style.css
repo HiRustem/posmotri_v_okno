@@ -249,7 +249,7 @@ ol {
 
 .content__card-link {
   display: block;
-  padding: 2px;
+  margin: 2px;
 
   color: #fff;
   text-decoration: none;
@@ -304,6 +304,10 @@ ol {
   font-size: 18px;
   font-weight: 400;
   line-height: 90%;
+
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 .content__video-card-thumbnail {
